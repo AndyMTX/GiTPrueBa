@@ -12,8 +12,8 @@ public class NumMayorApp {
 		//Para que metáis algo en el proyecto de verdad
 		int a, b;
 		NumMayor compara=new NumMayor();
-		a=0;
-		b=2;
+		a=2;
+		b=4;
 		//Aqui que otro añada el outprint de introducir a y b
 		if(compara.isA(a, b)) {
 			System.out.println(a + " es mayor que "+ b);
