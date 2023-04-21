@@ -13,8 +13,7 @@ public class NumMayorApp {
 		int a, b;
 		NumMayor compara=new NumMayor();
 		a=0;
-		b=2
-				;
+		b=2;
 		//Aqui que otro añada el outprint de introducir a y b
 		if(compara.isA(a, b)) {
 			System.out.println(a + " es mayor que "+ b);
