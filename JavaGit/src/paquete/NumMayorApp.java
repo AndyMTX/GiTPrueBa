@@ -22,6 +22,8 @@ public class NumMayorApp {
 		}else {
 			System.out.println("Ambos números son iguales");
 		}
+		
+		System.out.println("Holaaaaaaaaa");
 	}
 
 }
